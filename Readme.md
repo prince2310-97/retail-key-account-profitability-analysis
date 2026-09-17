@@ -23,7 +23,7 @@
 
 ## 📸 Dashboard Preview
 
-> 📂 Uploaded screenshots to the `dashboard-screenshots` folder.
+> 📂 Uploaded screenshots to the `dashboard_screenshot` folder.
 
 ### Page 1 — Executive Summary
 <!-- Upload: page1_executive_summary.png -->
@@ -184,7 +184,7 @@ retail-key-account-profitability-analysis/
 ├── dashboard/
 │   └── retail_key_account_profitability_dashboard.pbix           # Power BI file
 │
-├── assets/
+├── dashboard_screenshot/
 │   ├── page1_executive_summary.png
 │   ├── page2_customer_profitability.png
 │   ├── page3_discount_vs_profit.png
