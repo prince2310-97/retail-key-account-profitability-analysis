@@ -199,7 +199,7 @@ retail-key-account-profitability-analysis/
 
 ## 🙋 About
 
-**Prince Kumar** — Data Analyst | Python | SQL | Power BI | Excel | Tableau
+**Prince Kumar** — Data Analyst | Python | SQL | Power BI | Excel
 ---
 
 *⭐ If you found this project useful, consider starring the repository!*
