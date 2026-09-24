@@ -1,6 +1,6 @@
 # 🛒 Retail Key Account Profitability & Cost-to-Serve Diagnostic
 
-> Retail Key Account Profitability Diagnostic | $1.92M sales | Python · SQL · Power BI | $291K hidden losses uncovered | 48.98% loss-making transactions | Small-order cost-to-serve & KAM tier classification | SuperStore US H1 2015
+> Retail Key Account Profitability Diagnostic | $1.92M sales | Python · SQL · Power BI | $291K hidden losses uncovered | 48.98% loss-making transactions | Small-order cost-to-serve & KAM tier classi[...]
 
 ---
 
@@ -76,7 +76,7 @@ A retail business needed to understand:
 | Tool | Purpose |
 |------|---------|
 | **Python** (Pandas, Matplotlib, Seaborn) | Data cleaning, EDA, profitability segmentation |
-| **SQL** (PostgreSQL) | KPI aggregation, customer-level profitability, loss detection |
+| **SQL** (MySQL) | KPI aggregation, customer-level profitability, loss detection |
 | **Power BI** | 6-page interactive dashboard, DAX measures, KAM tier classification |
 | **Excel** | Source data (SuperStore US) |
 
@@ -142,7 +142,7 @@ SuperStore US Excel Data
 ## 💡 Key Insights
 
 - ⚠️ **48.98% of transactions are loss-making** — total loss of $291.45K hidden within $1.92M revenue
-- 📦 **Not a discounting problem** — only 2 of 1,952 transactions carry a discount above 10%, and discount has virtually no correlation with profit (r ≈ -0.06). Loss-making transactions average **$590** in sales vs. **$1,366** for profitable ones — the real driver is small-order cost-to-serve
+- 📦 **Not a discounting problem** — only 2 of 1,952 transactions carry a discount above 10%, and discount has virtually no correlation with profit (r ≈ -0.06). Loss-making transactions average [...]
 - 📍 **South region = net loss** (-4.04% margin) with the highest loss transaction rate (52.71%)
 - 🏆 **Central = best region** at 17.26% margin; East and West both around 14%
 - 🪑 **Furniture is structurally the lowest margin category** at ~9% — a base pricing/cost issue, not a discount issue
